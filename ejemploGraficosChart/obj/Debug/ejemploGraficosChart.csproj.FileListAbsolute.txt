@@ -1,0 +1,10 @@
+C:\Users\ACR\repositorioGithub\ejemploGraficosChart\ejemploGraficosChart\bin\Debug\ejemploGraficosChart.exe.config
+C:\Users\ACR\repositorioGithub\ejemploGraficosChart\ejemploGraficosChart\bin\Debug\ejemploGraficosChart.exe
+C:\Users\ACR\repositorioGithub\ejemploGraficosChart\ejemploGraficosChart\bin\Debug\ejemploGraficosChart.pdb
+C:\Users\ACR\repositorioGithub\ejemploGraficosChart\ejemploGraficosChart\obj\Debug\ejemploGraficosChart.csprojAssemblyReference.cache
+C:\Users\ACR\repositorioGithub\ejemploGraficosChart\ejemploGraficosChart\obj\Debug\ejemploGraficosChart.Form1.resources
+C:\Users\ACR\repositorioGithub\ejemploGraficosChart\ejemploGraficosChart\obj\Debug\ejemploGraficosChart.Properties.Resources.resources
+C:\Users\ACR\repositorioGithub\ejemploGraficosChart\ejemploGraficosChart\obj\Debug\ejemploGraficosChart.csproj.GenerateResource.cache
+C:\Users\ACR\repositorioGithub\ejemploGraficosChart\ejemploGraficosChart\obj\Debug\ejemploGraficosChart.csproj.CoreCompileInputs.cache
+C:\Users\ACR\repositorioGithub\ejemploGraficosChart\ejemploGraficosChart\obj\Debug\ejemploGraficosChart.exe
+C:\Users\ACR\repositorioGithub\ejemploGraficosChart\ejemploGraficosChart\obj\Debug\ejemploGraficosChart.pdb
