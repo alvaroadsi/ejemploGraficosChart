@@ -75,6 +75,11 @@ namespace ejemploGraficosChart
             s1 = trackMotos.Value; // La variable podria omitirse y que se cargue directa
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
         private void trackCarros_Scroll(object sender, EventArgs e)
         {
             labelCarros.Text = trackCarros.Value.ToString();
@@ -90,4 +95,5 @@ namespace ejemploGraficosChart
  * Enlaces consultados:
  * 
  https://msdn.microsoft.com/en-us/library/dd456769.aspx
+ Disponible en el repositorio: https://github.com/alvaroadsi/ejemploGraficosChart
 */
